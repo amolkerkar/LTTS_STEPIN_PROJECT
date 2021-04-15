@@ -6,7 +6,7 @@
 #include"function.h"
 int main()
      {
-		 compute();
+    compute();
 	 }
 
 
