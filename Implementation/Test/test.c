@@ -9,7 +9,7 @@ void check(void)
     TEST_ASSERT_EQUAL('y',confirm);
 }
 /**
- * @brief Check Whether any ticket is booked or not
+ * @brief Check Whether any score is present
  * @brief Check File is empty or not
  * @brief Using unit Test case
  * 
