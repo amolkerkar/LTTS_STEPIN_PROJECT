@@ -19,5 +19,5 @@ jobs:
         sudo apt-get -y install libcunit1 libcunit1-doc libcunit1-dev 
     - name: make test
       run: |
-        make run -C implementation/
-        valgrind ./implementation/Quiz_Game.out
+        make run -C Implementation/
+        valgrind ./Implementation/Quiz_Game.out
