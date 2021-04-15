@@ -1,3 +1,13 @@
+/**
+ * @file reset_score.c
+ * @author amol(amolkerkar2@gmail.com)
+ * @brief this function is used to reset scores
+ * @version 0.1
+ * @date 2021-04-16
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */
 #include "function.h"
 #include<stdio.h>
 #include<stdlib.h>

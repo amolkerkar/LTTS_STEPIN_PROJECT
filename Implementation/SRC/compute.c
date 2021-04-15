@@ -1,4 +1,13 @@
-#include "function.h"
+/**
+ * @file compute.c
+ * @author amol(amolkerkar2@gmail.com)
+ * @brief this function makes the layout and the questions of the quiz
+ * @version 0.1
+ * @date 2021-04-16
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
