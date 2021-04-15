@@ -15,7 +15,7 @@ int main()
      char playername[20];
      mainhome:
      system("cls");
-     printf("\t\t\tC PROGRAM QUIZ GAME\n");
+     printf("\t\t\tC PROGRAM  QUIZ GAME\n");
      printf("\n\t\t________________________________________");
 
      printf("\n\t\t\t   WELCOME ");
