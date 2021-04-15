@@ -5,8 +5,8 @@
 #include<string.h>
 #include"function.h"
 int main()
-     {
+    {
     compute();
-	 }
+     }
 
 
