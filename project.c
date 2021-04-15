@@ -30,7 +30,7 @@ int main()
      printf("\n\t\t > Press V to view the highest score  ");
      printf("\n\t\t > Press R to reset score");
      printf("\n\t\t > press H for help            ");
-     printf("\n\t\t > press Q to quit             ");
+     printf("\n\t\t > press Q  to quit             ");
      printf("\n\t\t________________________________________\n\n");
      choice=toupper(getch());
      if (choice=='V')
