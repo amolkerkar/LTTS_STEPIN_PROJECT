@@ -1,10 +1,10 @@
-name: Linux C/C++ CI
+name: C/C++ CI
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
   pull_request:
-    branches: [ master ]
+    branches: [ main ]
 
 jobs:
   build:
@@ -13,7 +13,5 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: build
-      run: gcc hello.c -o hello.exe
-    - name: Run
-      run: ./hello.exe
+    - name: make run
+      run: make run -C implementation/
