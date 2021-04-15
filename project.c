@@ -23,7 +23,7 @@ int main()
      printf("\n\t\t\t   THE GAME ");
      printf("\n\t\t________________________________________");
      printf("\n\t\t________________________________________");
-     printf("\n\t\t   BECOME A MILLIONAIRE!!!!!!!!!!!    ") ;
+     printf("\n\t\t   BECOME A MILLIONAIRE!!!!!!!!!!    ") ;
      printf("\n\t\t________________________________________");
      printf("\n\t\t________________________________________");
      printf("\n\t\t > Press S to start the game");
