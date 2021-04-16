@@ -59,7 +59,7 @@ void compute()
      system("cls");
 
     printf("\n\n\n\n\n\n\n\n\n\n\t\t\tResister your name:");
-     gets(playername);
+     scanf("%s",playername);
 
     system("cls");
     printf("\n ------------------  Welcome %s to C Program Quiz Game --------------------------",playername);
@@ -119,7 +119,7 @@ void compute()
         case 2:
 		printf("\n\n\nThe country with the highest environmental performance index is...");
 		printf("\n\nA.France\t\tB.Denmark\n\nC.Switzerland\t\tD.Finland");
-		if (getch()=='C')
+		if (getchar()=='C')
 			{printf("\n\nCorrect!!!");count++;
 			getchar();
 			break;}
