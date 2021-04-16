@@ -1,6 +1,15 @@
 # LTTS_STEPIN_PROJECT
 My miniproject for LTTS step-in programmee
 
+# SDLC Activity Based Learning
+
+# Project Name: Quiz Game
+
+# Description
+* This system focus on creating game using c launguge 
+* Player can play this quiz game with letter inputs for options and menu handling 
+* After game over player can see and also edit the score in a text file. 
+
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
