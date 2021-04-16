@@ -1,8 +1,8 @@
 #include<stdio.h>
 #include "../unity/unity.h"
 #include "../unity/unity_internals.h"
-void setUp(){}
-void tearDown(){}
+void setUp(void){}
+void tearDown(void){}
 char confirm;
 void check(void)
 {
