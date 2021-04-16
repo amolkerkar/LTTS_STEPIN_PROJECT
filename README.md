@@ -5,9 +5,9 @@ SDLC Activity Based Learning
 # Project Name: Quiz Game
 
 # Description
-*This system focus on creating game using c launguge 
-*Player can play this quiz game with letter inputs for options and menu handling 
-*After game over player can see and also edit the score in a text file. 
+* This system focus on creating game using c launguge 
+* Player can play this quiz game with letter inputs for options and menu handling 
+* After game over player can see and also edit the score in a text file. 
 
 ## Folder Structure
 Folder             | Description
@@ -19,24 +19,24 @@ Folder             | Description
 `5_Report`         | Contains Version of Project and Release Date
 
 # Functions used
-*Arrays 
-*pointers
-*User Defined Header File
-*Unity Test Framework
-*Compatibility with Windows and Linux
+* Arrays 
+* pointers
+* User Defined Header File
+* Unity Test Framework
+* Compatibility with Windows and Linux
 
 # Requirements
-*Unit Framework Library
-*MakeFile Configuration
-*Mingw-w64(It runs on 64Bit but there is option for 32 bit too)
-*gcc compiler
-*Additional VsCode
-  *Extension C/C++ 
-  *Doxygen Extension
-  *C/C++ Debugger Configuration
-*Code Coverage
-*CppCheck(Static memory analysis)
-*Valgrind(Dynamic memory analysis)(Linux)
+* Unit Framework Library
+* MakeFile Configuration
+* Mingw-w64(It runs on 64Bit but there is option for 32 bit too)
+* gcc compiler
+* Additional VsCode
+  * Extension C/C++ 
+  * Doxygen Extension
+  * C/C++ Debugger Configuration
+* Code Coverage
+* CppCheck(Static memory analysis)
+* Valgrind(Dynamic memory analysis)(Linux)
 
 
 [![Contribution Check - Git Inspector](https://github.com/amolkerkar/LTTS_STEPIN_PROJECT/actions/workflows/Git_Inspecter.yml/badge.svg)](https://github.com/amolkerkar/LTTS_STEPIN_PROJECT/actions/workflows/Git_Inspecter.yml)
@@ -48,22 +48,22 @@ Folder             | Description
 [![Code Coverage](https://github.com/amolkerkar/LTTS_STEPIN_PROJECT/actions/workflows/code-coverage.yml/badge.svg)](https://github.com/amolkerkar/LTTS_STEPIN_PROJECT/actions/workflows/code-coverage.yml)
 
 # Run Project
-*In cmd/terminal at project implementation location
-	*To Run Project
+* In cmd/terminal at project implementation location
+	* To Run Project
 		1. Run "make"
 		2. Run "make run"
-	*To Test Unit Testing(quiz game)
+	* To Test Unit Testing(quiz game)
 		1. Run "make test"
-	*To Check the code coverage
+	* To Check the code coverage
 		1. Run "make coverage"
-	*To delete all the executable files
+	* To delete all the executable files
 		1. Run "make clean"
 
 
 # Installation
-*Fork the project
-*Meet the Requirements
-*Ready to Play
+* Fork the project
+* Meet the Requirements
+* Ready to Play
 
 # Usage
 1. Run program
