@@ -1,6 +1,36 @@
 # LTTS_STEPIN_PROJECT
 My miniproject for LTTS step-in programmee
 
+## Folder Structure
+Folder             | Description
+-------------------| -----------------------------------------
+`1_Design`         | Documents specifying design details
+`2_Implementation` | All code and documentation
+`3_Requirements`   | Documents detailing requirements and research
+`4_Test_plan`      | Documents with test plans and procedures
+`5_Report`         | Contains Version of Project and Release Date
+
+# Functions used
+* Arrays 
+* pointers
+* User Defined Header File
+* Unity Test Framework
+* Compatibility with Windows and Linux
+
+# Requirements
+* Unit Framework Library
+* MakeFile Configuration
+* Mingw-w64(It runs on 64Bit but there is option for 32 bit too)
+* gcc compiler
+* Additional VsCode
+  * Extension C/C++ 
+  * Doxygen Extension
+  * C/C++ Debugger Configuration
+* Code Coverage
+* CppCheck(Static memory analysis)
+* Valgrind(Dynamic memory analysis)(Linux)
+
+
 [![Contribution Check - Git Inspector](https://github.com/amolkerkar/LTTS_STEPIN_PROJECT/actions/workflows/Git_Inspecter.yml/badge.svg)](https://github.com/amolkerkar/LTTS_STEPIN_PROJECT/actions/workflows/Git_Inspecter.yml)
 
 [![Unit Testing - Unity](https://github.com/amolkerkar/LTTS_STEPIN_PROJECT/actions/workflows/Unit-Testing.yml/badge.svg)](https://github.com/amolkerkar/LTTS_STEPIN_PROJECT/actions/workflows/Unit-Testing.yml)
