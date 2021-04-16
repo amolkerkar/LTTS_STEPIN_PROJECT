@@ -1823,27 +1823,27 @@ void UnityMessage(const char* msg, const UNITY_LINE_TYPE line)
 
 /*-----------------------------------------------*/
 /* If we have not defined our own test runner, then include our default test runner to make life easier */
-#ifndef UNITY_SKIP_DEFAULT_RUNNER
-void UnityDefaultTestRun(UnityTestFunction Func, const char* FuncName, const int FuncLineNum)
-{
-    Unity.CurrentTestName = FuncName;
-    Unity.CurrentTestLineNumber = (UNITY_LINE_TYPE)FuncLineNum;
-    Unity.NumberOfTests++;
-    UNITY_CLR_DETAILS();
-    UNITY_EXEC_TIME_START();
-    if (TEST_PROTECT())
-    {
-        setUp();
-        Func();
-    }
-    if (TEST_PROTECT())
-    {
-        tearDown();
-    }
-    UNITY_EXEC_TIME_STOP();
-    UnityConcludeTest();
-}
-#endif
+// #ifndef UNITY_SKIP_DEFAULT_RUNNER
+// void UnityDefaultTestRun(UnityTestFunction Func, const char* FuncName, const int FuncLineNum)
+// {
+//     Unity.CurrentTestName = FuncName;
+//     Unity.CurrentTestLineNumber = (UNITY_LINE_TYPE)FuncLineNum;
+//     Unity.NumberOfTests++;
+//     UNITY_CLR_DETAILS();
+//     UNITY_EXEC_TIME_START();
+//     if (TEST_PROTECT())
+//     {
+//         setUp();
+//         Func();
+//     }
+//     if (TEST_PROTECT())
+//     {
+//         tearDown();
+//     }
+//     UNITY_EXEC_TIME_STOP();
+//     UnityConcludeTest();
+// }
+// #endif
 
 /*-----------------------------------------------*/
 void UnitySetTestFile(const char* filename)
