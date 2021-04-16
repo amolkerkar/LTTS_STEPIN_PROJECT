@@ -8,6 +8,7 @@
  * @copyright Copyright (c) 2021
  * 
  */
+#include "../function.h"
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
@@ -23,4 +24,4 @@ void show_record()
 	printf("\n\n\t\t %s has secured the Highest Score %0.2f",name,scr);
 	printf("\n\n\t\t*************************************************************");
 	fclose(f);
-	getch();}
+	getchar();}

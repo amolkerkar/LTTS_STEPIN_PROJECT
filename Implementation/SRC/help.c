@@ -8,6 +8,7 @@
  * @copyright Copyright (c) 2021
  * 
  */
+#include "../function.h"
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
