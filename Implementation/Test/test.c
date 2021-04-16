@@ -6,7 +6,7 @@ void tearDown(void){}
 char confirm;
 void check(void)
 {
-    TEST_ASSERT_EQUAL('n',confirm);
+    TEST_ASSERT_EQUAL('y',confirm);
 }
 /**
  * @brief Check Whether any score is present
