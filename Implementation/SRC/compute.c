@@ -238,11 +238,11 @@ game:
 		printf("\n\n\nThe Laws of Electromagnetic Induction were given by?");
 		printf("\n\nA.Faraday\t\tB.Tesla\n\nC.Maxwell\t\tD.Coulomb");
 		if (getchar()=='A')
-			{printf("\n\nCorrect!!!");countr++;getch();
+			{printf("\n\nCorrect!!!");countr++;getchar();
 			 break;}
 		else
 		       {
-                printf("\n\nWrong!!! The correct answer is A.Faraday");getch();
+                printf("\n\nWrong!!! The correct answer is A.Faraday");getchar();
 		       goto score;
 		       break;
 		       }
