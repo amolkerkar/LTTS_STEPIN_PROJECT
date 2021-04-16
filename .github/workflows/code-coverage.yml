@@ -14,4 +14,4 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: make coverage
-      run: make coverage -C implementation/
+      run: make coverage -C Implementation/
