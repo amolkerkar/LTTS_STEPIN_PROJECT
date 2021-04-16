@@ -11,3 +11,5 @@ My miniproject for LTTS step-in programmee
 
 [![Valgrind_Check](https://github.com/amolkerkar/LTTS_STEPIN_PROJECT/actions/workflows/Valgrind_Check.yml/badge.svg)](https://github.com/amolkerkar/LTTS_STEPIN_PROJECT/actions/workflows/Valgrind_Check.yml)
 
+[![C/C++ CI](https://github.com/amolkerkar/LTTS_STEPIN_PROJECT/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/amolkerkar/LTTS_STEPIN_PROJECT/actions/workflows/c-cpp.yml)
+
