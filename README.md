@@ -48,6 +48,37 @@ Folder             | Description
 
 [![Code Coverage](https://github.com/amolkerkar/LTTS_STEPIN_PROJECT/actions/workflows/code-coverage.yml/badge.svg)](https://github.com/amolkerkar/LTTS_STEPIN_PROJECT/actions/workflows/code-coverage.yml)
 
+# Run Project
+* In cmd/terminal at project implementation location
+	* To Run Project
+		1. Run "make"
+		2. Run "make run"
+	* To Test Unit Testing(quiz game)
+		1. Run "make test"
+	* To Check the code coverage
+		1. Run "make coverage"
+	* To delete all the executable files
+		1. Run "make clean"
+
+
+# Installation
+* Fork the project
+* Meet the Requirements
+* Ready to Play
+
+# Usage
+1. Run program
+2. Play game using keys
+3. You can see the scores and edit them or get help to play game
+
+
+# Credit
+
+SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
+-------|---------|----------------|----------------|---------------|-------------|--------------
+`264877` | Amol Kerkar | Feature A, B etc    | Y yes     | Y yes   |Y yes   |Y yes     
+
+
 [![Valgrind_Check](https://github.com/amolkerkar/LTTS_STEPIN_PROJECT/actions/workflows/Valgrind_Check.yml/badge.svg)](https://github.com/amolkerkar/LTTS_STEPIN_PROJECT/actions/workflows/Valgrind_Check.yml)
 
 [![C/C++ CI](https://github.com/amolkerkar/LTTS_STEPIN_PROJECT/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/amolkerkar/LTTS_STEPIN_PROJECT/actions/workflows/c-cpp.yml)
