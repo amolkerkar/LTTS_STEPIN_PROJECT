@@ -5,5 +5,7 @@ My miniproject for LTTS step-in programmee
 
 [![Unit Testing - Unity](https://github.com/amolkerkar/LTTS_STEPIN_PROJECT/actions/workflows/Unit-Testing.yml/badge.svg)](https://github.com/amolkerkar/LTTS_STEPIN_PROJECT/actions/workflows/Unit-Testing.yml)
 
+[![cppcheck-action](https://github.com/amolkerkar/LTTS_STEPIN_PROJECT/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/amolkerkar/LTTS_STEPIN_PROJECT/actions/workflows/cppcheck.yml)
+
 
 
