@@ -1,4 +1,4 @@
-PROJECT_NAME = QUIZ_GAME
+PROJECT_NAME = Quiz_Game
 TEST_NAME=TEST_$(PROJECT_NAME)
 DO_IT =  SRC/edit_score.c  SRC/help.c SRC/compute.c SRC/show_record.c SRC/reset_score.c unity/unity.c  
 TEST_CASE= Test/test.c unity/unity.c
