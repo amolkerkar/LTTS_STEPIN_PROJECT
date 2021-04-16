@@ -190,7 +190,7 @@ void compute()
      system("cls");
      printf("\n\n\t*** CONGRATULATION %s you are eligible to play the Game ***",playername);
      printf("\n\n\n\n\t!Press any key to Start the Game!");
-     if(getch()=='p')
+     if(getchar()=='p')
 		{goto game;}
 game:
      countr=0;
