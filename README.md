@@ -7,5 +7,7 @@ My miniproject for LTTS step-in programmee
 
 [![cppcheck-action](https://github.com/amolkerkar/LTTS_STEPIN_PROJECT/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/amolkerkar/LTTS_STEPIN_PROJECT/actions/workflows/cppcheck.yml)
 
+[![Code Coverage](https://github.com/amolkerkar/LTTS_STEPIN_PROJECT/actions/workflows/code-coverage.yml/badge.svg)](https://github.com/amolkerkar/LTTS_STEPIN_PROJECT/actions/workflows/code-coverage.yml)
 
+[![Valgrind_Check](https://github.com/amolkerkar/LTTS_STEPIN_PROJECT/actions/workflows/Valgrind_Check.yml/badge.svg)](https://github.com/amolkerkar/LTTS_STEPIN_PROJECT/actions/workflows/Valgrind_Check.yml)
 
