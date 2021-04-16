@@ -4,6 +4,6 @@
 #include<string.h>
 #include"function.h"
 int main()
-    {void compute(void);}
+   {void compute(void);}
 
 
