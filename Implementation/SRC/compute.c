@@ -334,7 +334,7 @@ game:
 		case 13:
 		printf("\n\n\nName the country where there no mosquitoes are found?");
 		printf("\n\nA.Japan\t\tB.Italy\n\nC.Argentina\t\tD.France");
-		if (getch()=='D')
+		if (getchar()=='D')
 			{printf("\n\nCorrect!!!");countr++;getchar();
 			break;}
 		else
@@ -344,7 +344,7 @@ game:
         case 14:
 		printf("\n\n\nWho is the author of 'Pulpasa Cafe'?");
 		printf("\n\nA.Narayan Wagle\t\tB.Lal Gopal Subedi\n\nC.B.P. Koirala\t\tD.Khagendra Sangraula");
-		if (getch()=='A')
+		if (getchar()=='A')
 			{printf("\n\nCorrect!!!");countr++;getchar();
 			 break;}
 		else
@@ -354,7 +354,7 @@ game:
 		case 15:
 		printf("\n\n\nWhich Blood Group is known as the Universal Recipient?");
 		printf("\n\nA.A\t\tB.AB\n\nC.B\t\tD.O");
-		if (getch()=='B')
+		if (getchar()=='B')
 			{printf("\n\nCorrect!!!");countr++;getchar();
 			 break;}
 		else
