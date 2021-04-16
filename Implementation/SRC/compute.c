@@ -21,7 +21,7 @@ void compute()
      mainhome:
      system("cls");
      printf("\t\t\tC PROGRAM QUIZ GAME\n");
-     printf("\n\t\t________________________________________");
+     printf("\n\t\t_________________________________________");
 
      printf("\n\t\t\t   WELCOME ");
      printf("\n\t\t\t      to ");
